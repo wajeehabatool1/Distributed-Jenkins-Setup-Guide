@@ -147,6 +147,9 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
     
     ![image](https://github.com/user-attachments/assets/496e8ad8-f640-48b9-9780-253e6728d852)
 
+    ![image](https://github.com/user-attachments/assets/b54fecb8-cf28-4bc0-9138-d0ede9f117bd)
+
+
 
 
 
